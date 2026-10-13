@@ -10,7 +10,7 @@
   <p>O Pisica neagra ca exemplu pentru aceasta tema</p>
   <img src="chartreux.png" alt="Pisica">
   <p>
-  <a href="Tema.pdf">Deschide lucrarea în format PDF</a>
+  <a href="Portofoliul meu.pdf">Deschide lucrarea în format PDF</a>
   </p>
 </body>
 </html>
