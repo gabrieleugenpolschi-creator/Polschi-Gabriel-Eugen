@@ -1,17 +1,76 @@
+
 <!DOCTYPE html>
 <html lang="ro">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portofoliul meu</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 30px;
+      color: #222;
+      text-align: center;
+      line-height: 1.6;
+    }
+
+    h1 {
+      color: #234e70;
+      border-bottom: 2px solid #234e70;
+      padding-bottom: 10px;
+    }
+
+    h2 {
+      color: #367588;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      width: 400px;
+      height: auto;
+      margin: 20px auto;
+      border-radius: 10px;
+    }
+
+    a {
+      color: #075bb5;
+      text-decoration: underline;
+    }
+
+    @media print {
+      body {
+        margin: 0;
+        padding: 20px;
+      }
+
+      a {
+        color: #222;
+      }
+    }
+  </style>
 </head>
+
 <body>
   <h1>Portofoliul meu</h1>
+
   <h2>Afișul meu</h2>
-  <p>O scurtă descriere a lucrării realizate.</p>
-  <img src="chartreux.png" alt="Pisica">
+
   <p>
-  <a href="tema-01-afis/Tema.pdf">Deschide lucrarea în format PDF</a>
+    Această lucrare face parte din portofoliul meu digital
+    și prezintă o imagine cu o pisică Chartreux.
+  </p>
+
+  <img src="chartreux.png" alt="Pisică Chartreux cu blană gri">
+
+  <p>
+    <a href="tema-01-afis/Tema.pdf">
+      Deschide lucrarea în format PDF
+    </a>
   </p>
 </body>
 </html>
+
