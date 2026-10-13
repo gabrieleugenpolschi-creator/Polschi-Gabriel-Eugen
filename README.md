@@ -3,7 +3,9 @@
 <p>Clasa 12 A</p>
 <p>Specializare: Productie Media</p>
 <p>Liceul: Grigore C. Moisil</p>
-## Lucrări
+
+## Lucrari
+
 <ol>
   <li>First item</li>
   <li>Second item</li>
