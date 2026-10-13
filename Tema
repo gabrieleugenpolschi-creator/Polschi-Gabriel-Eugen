@@ -7,18 +7,11 @@
 </head>
 <body>
   <h1>Portofoliul meu</h1>
-
   <h2>Afișul meu</h2>
   <p>O scurtă descriere a lucrării realizate.</p>
-
-  <img
-    src="tema-01-afis/afis.png"
-    alt="Imaginea afișului realizat"
-    width="500"
-  >
-
+  <img src="chartreux.png" alt="Pisica">
   <p>
-    <a href="tema-01-afis/afis.pdf">Deschide lucrarea în format PDF</a>
+  <a href="Tema.pdf">Deschide lucrarea în format PDF</a>
   </p>
 </body>
 </html>
